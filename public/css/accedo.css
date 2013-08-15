@@ -45,3 +45,21 @@ color:#317eac;
 background:#317eac;
 color:#FFF;
 }
+
+#feed_name { 
+position: relative;
+display: block;
+height: 30px;
+border-bottom: 1px dashed #317eac;
+}
+#feed_name span#left { position:absolute; left:0; top:0px; color:#317eac; }
+#feed_name span#right { position:absolute; right:0; top:0px; color:#317eac; }
+#feed_name div#text {  text-align:center; color:#317eac; font-size:18px;}
+
+
+h2 {
+font-size: 21px;
+}
+h1, h2, h3 {
+line-height: 28px;
+}
