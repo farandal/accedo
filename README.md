@@ -32,3 +32,5 @@ This is a simple webapp which lets you browse and watch a subset of the CNN Vide
 * 	Styling: (ex Twitter) Bootstrap is used as the base CSS framework and some CSS3-features such as rounded corners and gradients are used.
 
 
+## Version 2.0 Features: ##
+*	User can use his SmartPhone to controll the arrow movements on the screen as remote controll
