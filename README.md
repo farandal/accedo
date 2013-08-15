@@ -24,7 +24,9 @@ This is a simple webapp which lets you browse and watch a subset of the CNN Vide
 * 	The app is runnable using a normal Apache server. 
 
 ## Additional Plugins: ##
+*	All aditional plugins are loaded from CDN'S
 * 	Player: JWPlayer is used, also the script can be extended to support any other player.
+*	JWPlayer personal key is required to be specified in the index.htm document.
 * 	Proxy: Goolge API is used as a ‘proxy’ is used in order to read XML feeds from CNN.com using AJAX.
 * 	Javascript: JQuery framework is used in order to simplify Ajax requests and DOM Manipulation.
 * 	Styling: (ex Twitter) Bootstrap is used as the base CSS framework and some CSS3-features such as rounded corners and gradients are used.

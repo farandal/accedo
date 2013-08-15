@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+background:url(http://accedo.farandal.com/images/home_bg.jpg) no-repeat scroll center top transparent;
+overflow:hidden;
+height:100%;
+font-family:Arial;
+font-size:12px;
+}
+
+.logo {
+width:191px;
+margin:40px auto 0;
+}
+
+#content {
+width:1024px;
+margin:50px auto 0;
+}
+
+.itemlistcontainer {
+height:160px;
+border:#317eac 2px solid;
+overflow:hidden;
+position:relative;
+}
+
+.itemlist {
+list-style:none;
+position:absolute;
+width:100%;
+margin:0;
+}
+
+.itemlist li {
+height:40px;
+border-bottom:1px solid #999;
+background:#FFF;
+color:#317eac;
+}
+
+.itemlist li.selected {
+background:#317eac;
+color:#FFF;
+}
